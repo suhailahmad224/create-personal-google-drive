@@ -147,3 +147,7 @@ Better error handling
 Progress indicator for uploads
 File metadata
 Cloud storage support
+
+## 🖥️ Preview
+
+![My Drive Preview](screenshot/mydrive.png)
