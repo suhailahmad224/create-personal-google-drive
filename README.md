@@ -85,7 +85,7 @@ create-personal-google-drive/
 
 ⚙️ Installation
 Clone the repository:
-git clone https://share.google/usUcnrmkvdWygZIj7
+git clone https://git clone https://github.com/suhailahmad224/create-personal-google-drive.git
 
 Go inside the project:
 cd create-personal-google-drive
